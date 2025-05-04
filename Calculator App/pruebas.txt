@@ -1,0 +1,120 @@
+Pruebas - Ricardo Alvarenga=
+============================
+
+Suma:
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+1
+Enter the first number
+10
+Enter the second number
+5
+The total is: 15.0
+Do you want to continue? (Y/N)
+n
+
+=============================
+
+Resta:
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+2
+Enter the first number
+10
+Enter the second number
+5
+The total is: 5.0
+Do you want to continue? (Y/N)
+n
+
+=============================
+
+Multiplicacion
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+3
+Enter the first number
+5
+Enter the second number
+5
+The total is: 25.0
+Do you want to continue? (Y/N)
+n
+
+============================
+
+Division
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+4
+Enter the first number
+50
+Enter the second number
+5
+The total is: 10.0
+Do you want to continue? (Y/N)
+n
+
+============================
+
+Potencia
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+5
+Enter the first number
+2
+Enter the second number
+2
+The total is: 4.0
+Do you want to continue? (Y/N)
+n
+
+============================
+
+Raiz Cuadrada
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+6
+Enter the first number
+10
+The total is: 3.1622776601683795
+Do you want to continue? (Y/N)
+n
+
+============================
+Validacion de datos
+
+Select an option:
+1. Addition   ||  2. Subtraction   ||  3. Multiplication
+4. Division   ||  5. Power   ||  6. Square Root
+I am not a number
+Invalid input, please try a numeric value
+++++
+Invalid input, please try a numeric value
+3
+Enter the first number
+Not a number
+Invalid input, please try a numeric value
+10
+Enter the second number
+Not a number
+Invalid input, please try a numeric value
+10
+The total is: 100.0
+Do you want to continue? (Y/N)
+1
+
+Process finished with exit code 0
+
